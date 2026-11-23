@@ -1,0 +1,5 @@
+{
+  "id": "subsonic",
+  "nom": {"en": "Subsonic server", "fr": "Serveur Subsonic"},
+  "version": "0.1.0"
+}
